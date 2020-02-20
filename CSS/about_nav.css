@@ -1,8 +1,10 @@
 
 nav a{
   color: white;
-  z-index:500;
+  z-index:5000;
 }
+
+nav ul li{ z-index: 5000;}
 
 .navbar-dark .navbar-nav .nav-link{
 
