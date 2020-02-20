@@ -4,7 +4,8 @@ nav a{
  
 }
 
-nav ul { z-index: 9000;}
+nav ul { position: relative;
+    z-index: 10000;}
 
 .navbar-dark .navbar-nav .nav-link{
 
