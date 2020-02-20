@@ -1,7 +1,7 @@
 
 nav a{
   color: white;
- z-index: 1000
+ z-index: 1000;
 }
 
 nav ul { 
@@ -23,9 +23,7 @@ nav ul {
     
 
 }
-.bg-dark{
-  opacity: 0.6;
-}
+
 .navbar ul li{
   padding:0 15px; 
 }
