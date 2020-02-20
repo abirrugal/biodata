@@ -4,7 +4,7 @@ nav a{
  
 }
 
-nav ul { position: relative; left:0; top:0;
+nav ul li{ position: relative; left:0; top:0;
     z-index: 10000;}
 
 .navbar-dark .navbar-nav .nav-link{
