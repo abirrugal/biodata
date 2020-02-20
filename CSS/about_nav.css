@@ -1,13 +1,8 @@
 
 nav a{
   color: white;
- z-index: 1000;
+
 }
-
-nav ul { 
-    z-index: 10000;}
-
-.bg-info{ z-index: 1000; }
 
 .navbar-dark .navbar-nav .nav-link{
 
@@ -28,5 +23,5 @@ nav ul {
   padding:0 15px; 
 }
 
-img{ z-index: 100;}
+
 
