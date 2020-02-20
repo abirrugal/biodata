@@ -23,6 +23,10 @@ nav a{
 .navbar ul li{
   padding:0 15px; 
 }
+
+img{
+  z-index: 100;
+}
 nav{ 
   z-index: 800;
 }
