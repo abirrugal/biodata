@@ -4,7 +4,7 @@ nav a{
  
 }
 
-nav ul { z-index: 5000;}
+nav ul { z-index: 9000;}
 
 .navbar-dark .navbar-nav .nav-link{
 
