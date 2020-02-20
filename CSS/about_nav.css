@@ -1,6 +1,7 @@
 
 nav a{
   color: white;
+  z-index:500;
 }
 
 .navbar-dark .navbar-nav .nav-link{
@@ -27,6 +28,4 @@ nav a{
 img{
   z-index: 100;
 }
-nav{ 
-  z-index: 800;
-}
+
